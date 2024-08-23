@@ -36,5 +36,3 @@
   - [ ] Install new monitoring alerts that will catch future issues quicker.  
 
 ---
-
-Let’s make sure the next “Checkout Showdown” doesn’t end with a crash but with satisfied customers clicking “Order Confirmed.”
